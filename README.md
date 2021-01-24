@@ -7,4 +7,4 @@
 # Programs
 
 # Tutorials
-   *[AndroidStudio](WIKI/Tutorials/AndroidStudio.md)
+   *[AndroidStudio](AndroidStudio.md)
