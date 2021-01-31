@@ -10,7 +10,9 @@
    *[AndroidStudio](Tutorials/AndroidStudio.md)
    
  <details>
-   ## <summary>Tutorials</summary>
+    <summary>
+      <h4>Tutorials<h4/>
+  </summary>
   
   *[AndroidStudio](Tutorials/AndroidStudio.md)
 </details>
