@@ -9,11 +9,11 @@
 # Tutorials
    *[AndroidStudio](Tutorials/AndroidStudio.md)
    
-<details>
-  <summary>Click to expand!</summary>
+# <details>
+  <summary>Tutorials</summary>
   
   ## Heading
-  1. A numbered
+  *[AndroidStudio](Tutorials/AndroidStudio.md)
   2. list
      * With some
      * Sub bullets
