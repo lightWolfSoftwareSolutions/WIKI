@@ -9,8 +9,8 @@
 # Tutorials
    *[AndroidStudio](Tutorials/AndroidStudio.md)
    
-# <details>
-  <summary>Tutorials</summary>
+ <details>
+  # <summary>Tutorials</summary>
   
   ## Heading
   *[AndroidStudio](Tutorials/AndroidStudio.md)
