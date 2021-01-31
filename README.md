@@ -1,31 +1,31 @@
-<details><summary>BeginnerProjects</summary>
+<details><summary><b>BeginnerProjects</b></summary>
 
    </details> 
 
-<details><summary>Codes</summary>
+<details><summary><b>Codes</b></summary>
 
    </details>
    
-<details><summary>Documents</summary>
+<details><summary><b>Documents</b></summary>
 
-   *[GitCommands](Documents/GitCommands.md)   
+   [GitCommands](Documents/GitCommands.md)   
    </details>
 
-<details><summary>Programs</summary>
+<details><summary><b>Programs</b></summary>
 
-   *[AdobeXD](Programs/AdobeXD.md)
+   [AdobeXD](Programs/AdobeXD.md)
    
-   *[MarvelApp](Programs/MarvelApp.md)   
+   [MarvelApp](Programs/MarvelApp.md)   
    </details>
    
-<details><summary>Projects</summary>
+<details><summary><b>Projects</b></summary>
    
-   *[Kahoot](Programs/Kahoot.md)   
+   [Kahoot](Programs/Kahoot.md)   
    </details>
    
-<details><summary>Tutorials</summary>
+<details><summary><b>Tutorials</b></summary>
 
-  *[AndroidStudio](Tutorials/AndroidStudio.md)
+  [AndroidStudio](Tutorials/AndroidStudio.md)
   
-  *[MdFilesMarkingUp.md](Tutorials/MdFilesMarkingUp.md)
+  [MdFilesMarkingUp.md](Tutorials/MdFilesMarkingUp.md)
    </details>
