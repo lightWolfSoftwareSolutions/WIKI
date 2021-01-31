@@ -7,7 +7,7 @@
 # Programs
    
  <details>
-    <summary><h1>Tutorials<h1/>
+    <summary><h1>Tutorials</h1>
   </summary>
   
   *[AndroidStudio](Tutorials/AndroidStudio.md)
