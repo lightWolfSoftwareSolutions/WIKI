@@ -5,13 +5,9 @@
 # Documents
 
 # Programs
-
-# Tutorials
-   *[AndroidStudio](Tutorials/AndroidStudio.md)
    
  <details>
-    <summary>
-      <h4>Tutorials<h4/>
+    <summary><h1>Tutorials<h1/>
   </summary>
   
   *[AndroidStudio](Tutorials/AndroidStudio.md)
