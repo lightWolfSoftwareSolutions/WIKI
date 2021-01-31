@@ -8,24 +8,24 @@
    
 <details><summary><b>Documents</b></summary>
 
-   [GitCommands](Documents/GitCommands.md)   
+   <br>[GitCommands](Documents/GitCommands.md)</br>
    </details>
 
 <details><summary><b>Programs</b></summary>
 
-   [AdobeXD](Programs/AdobeXD.md)
+   <br>[AdobeXD](Programs/AdobeXD.md)</br>
    
-   [MarvelApp](Programs/MarvelApp.md)   
+   <br>[MarvelApp](Programs/MarvelApp.md)</br>  
    </details>
    
 <details><summary><b>Projects</b></summary>
    
-   [Kahoot](Programs/Kahoot.md)   
+   <br>[Kahoot](Programs/Kahoot.md)</br>
    </details>
    
 <details><summary><b>Tutorials</b></summary>
 
-  [AndroidStudio](Tutorials/AndroidStudio.md)
+   <br>[AndroidStudio](Tutorials/AndroidStudio.md)</br>
   
-  [MdFilesMarkingUp.md](Tutorials/MdFilesMarkingUp.md)
+   <br>[MdFilesMarkingUp.md](Tutorials/MdFilesMarkingUp.md)</br>
    </details>
